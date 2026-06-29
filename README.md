@@ -1,6 +1,6 @@
 # SCT_CS_3
 
-Password Strength Checker
+
 ## Internship
 
 SkillCraft Technology – Cyber Security Internship
